@@ -28,9 +28,9 @@
 
 - 📫 How to reach me:
 
-[![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white "VK")](https://vk.com/id54492782)
+<!--[![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white "VK")](https://vk.com/id54492782)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white "Telegram")](https://t.me/lngermanland) 
-[![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:2710aleksey@gmail.com)
+[![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:2710aleksey@gmail.com)-->
 
 
 <h3 align="left">Connect with me:</h3>
